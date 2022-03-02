@@ -1,0 +1,17 @@
+/* font-family: 'Literata', serif; */
+@import url("https://fonts.googleapis.com/css2?family=Literata:ital,wght@0,400;0,900;1,400&display=swap");
+/* ----- Acrom ---- */
+@font-face {
+	src: url("Acrom/Acrom-Regular.woff2") format("woff2"), url("Acrom/Acrom-Regular.woff") format("woff");
+	font-family: "Acrom";
+	font-weight: 400;
+	font-style: normal;
+	font-display: swap;
+}
+@font-face {
+	font-family: "Acrom";
+	src: url("Acrom/Acrom-Bold.woff2") format("woff2"), url("Acrom/Acrom-Bold.woff") format("woff");
+	font-weight: 700;
+	font-style: normal;
+	font-display: swap;
+}
